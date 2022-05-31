@@ -1,10 +1,15 @@
-# Karen Mitlin 
-
-### Hi there, I'm Karen Mitlin :bowtie:
-[![Linkedin Badge](https://img.shields.io/badge/-Nimrod%20Stein-0077b5?logo=linkedin&logoColor=white&style=flat&link=https://www.linkedin.com/in/nimrod-stein/)](https://www.linkedin.com/in/nimrod-stein/)
-[![Gmail Badge](https://img.shields.io/badge/-nimstein@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nimstein@gmail.com)](mailto:nimstein@gmail.com)
-[![Github Badge](https://img.shields.io/badge/-Portfolio-181717?logo=github&logoColor=white&style=flat&link=https://www.github.com/Nimstein/Portfolio)](https://www.github.com/Nimstein/Portfolio)
-
+<p align="center">
+<img width="691" height="345" src="https://user-images.githubusercontent.com/99136427/171146730-f1b254c3-30d4-4f2d-b016-3231fa64836a.png" alt="my banner">
+</p>
+<h1 align="center">
+Hi there 👋, I'm Karen
+</h1>
+<h3 align="center">
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-Karen%20Mitlin-0077b5?logo=linkedin&logoColor=white&style=flat&link=https://www.linkedin.com/in/karen-mitlin/)](https://www.linkedin.com/in/karen-mitlin/)
+[![Gmail Badge](https://img.shields.io/badge/-karen.mitlin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karen.mitlin@gmail.com)](mailto:karen.mitlin@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Portfolio-181717?logo=github&logoColor=white&style=flat&link=https://github.com/KarenMitlin/Portfolio)](https://github.com/KarenMitlin/Portfolio)
+</h3>
 <!--
 **KarenMitlin/KarenMitlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
