@@ -17,7 +17,7 @@ Hi there 👋, I'm Karen
 
 <b> 🌱 I’m currently working on: </b>
   
-  - My old projects [![Github Badge](https://img.shields.io/badge/-Portfolio-181717?logo=github&logoColor=white&style=flat&link=https://github.com/KarenMitlin/Portfolio)](https://github.com/KarenMitlin/Portfolio)
+  - My old projects
   - Cementing and expanding my knowledge in SQL, Python, Tableau, Excel and more
   - Completing the DataCamp Data Analysis certification
   
@@ -28,3 +28,4 @@ Hi there 👋, I'm Karen
   - Gardening
   - Cooking
 
+<b> :computer: Here are a few of my projects: (you can view my full portfolio <a href="https://github.com/KarenMitlin/Portfolio"> here</a>) </b>
