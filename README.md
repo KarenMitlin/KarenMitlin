@@ -29,3 +29,4 @@ Hi there 👋, I'm Karen
   - Cooking
 
 <b> :computer: Here are a few of my projects: (you can view my full portfolio <a href="https://github.com/KarenMitlin/Portfolio"> here</a>) </b>
+ - 
