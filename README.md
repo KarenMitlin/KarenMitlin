@@ -9,18 +9,22 @@ Hi there 👋, I'm Karen
   [![Linkedin Badge](https://img.shields.io/badge/-Karen%20Mitlin-0077b5?logo=linkedin&logoColor=white&style=flat&link=https://www.linkedin.com/in/karen-mitlin/)](https://www.linkedin.com/in/karen-mitlin/)
 [![Gmail Badge](https://img.shields.io/badge/-karen.mitlin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karen.mitlin@gmail.com)](mailto:karen.mitlin@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Portfolio-181717?logo=github&logoColor=white&style=flat&link=https://github.com/KarenMitlin/Portfolio)](https://github.com/KarenMitlin/Portfolio)
-</h3>
-<!--
-**KarenMitlin/KarenMitlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+  I have recently completed an intensive and exclusive <a href="https://slack-files.com/files-pri-safe/TPV9DP0N4-F03GN3J8HEU/karen_mitlin_28.04.22-2.pdf?c=1653997366-28331d345c1cfd56" target="_blank" rel="noreferrer">Data Analysis</a> course at Practicum 100 by Yandex and I'm looking for new challenges.
+           
+  </h3>
+- 💬 If you have any question/feedback, please do not hesitate to reach out!<br/><br/>
 
-Here are some ideas to get you started:
+<b> 🌱 I’m currently working on: </b>
+  
+  - My old projects [![Github Badge](https://img.shields.io/badge/-Portfolio-181717?logo=github&logoColor=white&style=flat&link=https://github.com/KarenMitlin/Portfolio)](https://github.com/KarenMitlin/Portfolio)
+  - Cementing and expanding my knowledge in SQL, Python, Tableau, Excel and more
+  - Completing the DataCamp Data Analysis certification
+  
+<b> :sunflower: I enjoy: </b>
+  
+  - Solving Nonograms
+  - Reading
+  - Gardening
+  - Cooking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
