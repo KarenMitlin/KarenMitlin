@@ -33,4 +33,7 @@ Hi there 👋, I'm Karen
 
  - <b>E-Commerce Product Range Analysis-</b>&emsp;<a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/main/E-Commerce%20Product%20Range%20Analysis/Decomposition.ipynb">Decomposition</a>&emsp;|&emsp;<a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/main/E-Commerce%20Product%20Range%20Analysis/E-Commerce%20Product%20Range%20Analysis.ipynb">Project</a>&emsp;|&emsp;<a href="https://public.tableau.com/app/profile/karen.mitlin/viz/AverageDailyRevenuebyCategoryThroughouttheYear/Sheet1?publish=yes">Dashboard</a>&emsp;|&emsp;<a href="https://github.com/KarenMitlin/Portfolio-Practicum-Projects/files/8817861/Final.Project-.Presentation.pdf">Presentation</a><br/>
  In this project we will analyze the store's product range by carrying out exploratory data analysis, analyzing the product range and formulating and testing statistical hypotheses.
-
+ - <b>Analyzing A/B Tests-</b>&emsp;<a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/main/Analyzing%20AB%20Tests/AB%20Testing.ipynb">Project</a><br/>
+ In this project we will analyze two A/B tests that weren't done properly and coming to conclusions regarding the way they were performed.
+- <b>SQL Project-</b>&emsp; <a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/8c6c256c7929b3188d480df89f26bda61a53d839/SQL%20Project/SQL.ipynb">Project</a><br/>
+In this project we will use a database containing data on books, publishers, authors, customer ratings and reviews of books to look at different aspects of the dataset.
