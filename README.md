@@ -37,3 +37,4 @@ Hi there 👋, I'm Karen
  In this project we will analyze two A/B tests that weren't done properly and coming to conclusions regarding the way they were performed.
 - <b>SQL Project-</b>&emsp; <a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/8c6c256c7929b3188d480df89f26bda61a53d839/SQL%20Project/SQL.ipynb">Project</a><br/>
 In this project we will use a database containing data on books, publishers, authors, customer ratings and reviews of books to look at different aspects of the dataset.
+- <b>More to come...</b>
