@@ -17,7 +17,7 @@ Hi there 👋, I'm Karen
 
 <b> 🌱 I’m currently working on: </b>
   
-  - My old projects
+  - Uploading my projects
   - Cementing and expanding my knowledge in SQL and Python
   - Broadening my knowledge in Tableau, Excel and more
   - Completing the DataCamp Data Analysis certification
