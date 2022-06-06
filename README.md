@@ -37,6 +37,13 @@ Hi there 👋, I'm Karen
  In this project we will analyze two A/B tests that weren't done properly and coming to conclusions regarding the way they were performed.
 - <b>SQL Project-</b>&emsp; <a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/8c6c256c7929b3188d480df89f26bda61a53d839/SQL%20Project/SQL.ipynb">Project</a><br/>
 In this project we will use a database containing data on books, publishers, authors, customer ratings and reviews of books to look at different aspects of the dataset.
-- <b>Machine Learning- Analyzing Churn Rate</b>&emsp; <a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/main/Machine%20Learning-Analyzing%20Churn%20Rate/Machine%20Learning-Analyzing%20Churn%20Rate.ipynb">Project</a><br/>
+- <b>Machine Learning- Analyzing Churn Rate</b>&emsp;<a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/main/Machine%20Learning-Analyzing%20Churn%20Rate/Machine%20Learning-Analyzing%20Churn%20Rate.ipynb">Project</a><br/>
 In this project we will study the different aspects that effect the churn rate of customers in the gym chain "Model Fitness". We will learn to predict the probability of churn (for the upcoming month) for each customer, draw up typical user portraits: select the most outstanding groups, describe their main features, draw basic conclusions and develop recommendations on how to improve customer service.
+
+- <b>Trending Video History on YouTube-</b>&emsp;<a href="https://public.tableau.com/app/profile/karen.mitlin/viz/Trending-VideoHistoryonYouTube/Dashboard1?publish=yes">Dashboard</a>&emsp;|&emsp;<a href="https://github.com/KarenMitlin/Portfolio-Practicum-Projects/files/8842650/Trending.Video.History.on.YouTube-.Presentation.pd">Presentation</a><br/>
+In this project we will analyze trending videos on YouTube to determine what content deserves marketing attention. We will use Tableau to visualize our findings and answer these questions:
+  - What video categories were trending last week?
+  - How were they distributed among various regions?
+  - What categories were especially popular in the United States?
+
 - <b>More to come...</b>
