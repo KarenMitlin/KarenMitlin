@@ -10,7 +10,7 @@ Hi there 👋, I'm Karen
 [![Gmail Badge](https://img.shields.io/badge/-karen.mitlin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karen.mitlin@gmail.com)](mailto:karen.mitlin@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Portfolio-181717?logo=github&logoColor=white&style=flat&link=https://github.com/KarenMitlin/Portfolio-Practicum-Projects)](https://github.com/KarenMitlin/Portfolio-Practicum-Projects)
   
-  I have recently completed an intensive and exclusive <a href="https://slack-files.com/files-pri-safe/TPV9DP0N4-F03GN3J8HEU/karen_mitlin_28.04.22-2.pdf?c=1653997366-28331d345c1cfd56" target="_blank" rel="noreferrer">Data Analysis</a> course at Practicum 100 by Yandex and I'm looking for new challenges.
+  I have recently completed an intensive and exclusive <a href="https://slack-files.com/files-pri-safe/TPV9DP0N4-F03JXSFQ7U1/karen_mitlin.pdf?c=1654668935-f0b55f0879e72937">Data Analysis</a> course at Practicum 100 by Yandex and I'm looking for new challenges.
            
   </h3>
 - 💬 If you have any question/feedback, please do not hesitate to reach out!<br/><br/>
