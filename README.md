@@ -31,25 +31,25 @@ Hi there 👋, I'm Karen
 
 <b> :computer: Here are a few of my projects: (you can view my full portfolio <a href="https://github.com/KarenMitlin/Portfolio-Practicum-Projects"> here</a>) </b>
 
- - <b>E-Commerce Product Range Analysis-</b>&emsp;<a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/main/E-Commerce%20Product%20Range%20Analysis/Decomposition.ipynb">Decomposition</a>&emsp;|&emsp;<a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/main/E-Commerce%20Product%20Range%20Analysis/E-Commerce%20Product%20Range%20Analysis.ipynb">Project</a>&emsp;|&emsp;<a href="https://public.tableau.com/app/profile/karen.mitlin/viz/AverageDailyRevenuebyCategoryThroughouttheYear/Sheet1?publish=yes">Dashboard</a>&emsp;|&emsp;<a href="https://github.com/KarenMitlin/Portfolio-Practicum-Projects/files/8817861/Final.Project-.Presentation.pdf">Presentation</a><br/>
+ - <b>E-Commerce Product Range Analysis-</b> (Python)&emsp;<a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/main/E-Commerce%20Product%20Range%20Analysis/Decomposition.ipynb">Decomposition</a>&emsp;|&emsp;<a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/main/E-Commerce%20Product%20Range%20Analysis/E-Commerce%20Product%20Range%20Analysis.ipynb">Project</a>&emsp;|&emsp;<a href="https://public.tableau.com/app/profile/karen.mitlin/viz/AverageDailyRevenuebyCategoryThroughouttheYear/Sheet1?publish=yes">Dashboard</a>&emsp;|&emsp;<a href="https://github.com/KarenMitlin/Portfolio-Practicum-Projects/files/8817861/Final.Project-.Presentation.pdf">Presentation</a><br/>
  In this project we analyzed the store's product range by carrying out exploratory data analysis, analyzing the product range and formulating and testing statistical hypotheses.
  
- - <b>Analyzing A/B Tests-</b>&emsp;<a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/main/Analyzing%20AB%20Tests/AB%20Testing.ipynb">Project</a><br/>
+ - <b>Analyzing A/B Tests-</b> (Python)&emsp;<a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/main/Analyzing%20AB%20Tests/AB%20Testing.ipynb">Project</a><br/>
  In this project we analyzed two A/B tests that weren't done properly and came to conclusions regarding the way they were performed.
  
-- <b>SQL Project-</b>&emsp; <a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/8c6c256c7929b3188d480df89f26bda61a53d839/SQL%20Project/SQL.ipynb">Project</a><br/>
+- <b>SQL Project-</b> (PostgreSQL)&emsp; <a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/8c6c256c7929b3188d480df89f26bda61a53d839/SQL%20Project/SQL.ipynb">Project</a><br/>
 In this project we used a database containing data on books, publishers, authors, customer ratings and reviews of books to identify the top publishers and best selling authors, and look at different aspects of the dataset.
 
-- <b>Machine Learning- Analyzing Churn Rate</b>&emsp;<a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/main/Machine%20Learning-Analyzing%20Churn%20Rate/Machine%20Learning-Analyzing%20Churn%20Rate.ipynb">Project</a><br/>
+- <b>Machine Learning- Analyzing Churn Rate</b> (Python)&emsp;<a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/main/Machine%20Learning-Analyzing%20Churn%20Rate/Machine%20Learning-Analyzing%20Churn%20Rate.ipynb">Project</a><br/>
 In this project studied the different aspects that effect the churn rate of customers in the gym chain "Model Fitness". We learned to predict the probability of churn (for the upcoming month) for each customer, drew up typical user portraits: selected the most outstanding groups, described their main features, drew basic conclusions and developed recommendations on how to improve customer service.
 
-- <b>Trending Video History on YouTube-</b>&emsp;<a href="https://public.tableau.com/app/profile/karen.mitlin/viz/Trending-VideoHistoryonYouTube/Dashboard1?publish=yes">Dashboard</a>&emsp;|&emsp;<a href="https://github.com/KarenMitlin/Portfolio-Practicum-Projects/files/8842650/Trending.Video.History.on.YouTube-.Presentation.pd">Presentation</a><br/>
+- <b>Trending Video History on YouTube-</b> (Python)&emsp;<a href="https://public.tableau.com/app/profile/karen.mitlin/viz/Trending-VideoHistoryonYouTube/Dashboard1?publish=yes">Dashboard</a>&emsp;|&emsp;<a href="https://github.com/KarenMitlin/Portfolio-Practicum-Projects/files/8842650/Trending.Video.History.on.YouTube-.Presentation.pd">Presentation</a><br/>
 In this project we analyzed trending videos on YouTube to determine what content deserves marketing attention. We used Tableau to visualize our findings and answered these questions:
   - What video categories were trending last week?
   - How were they distributed among various regions?
   - What categories were especially popular in the United States?
 
-- <b>Investigating User Behavior-</b>&emsp;<a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/main/Investigating%20User%20Behavior/Investigating%20User%20Behavior.ipynb">Project</a><br>
+- <b>Investigating User Behavior-</b> (Python)&emsp;<a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/main/Investigating%20User%20Behavior/Investigating%20User%20Behavior.ipynb">Project</a><br>
 In the first part of this project we studied the sales funnel. We fond out how users reach the purchase stage, how many users actually make it to this stage, how many get stuck at previous stages and which stages in particular. In the second part we looked at the results of an A/A/B test. There are 3 groups: 2 control groups and 1 test group which we conducted statistical testing on.
 
 - <b>More to come...</b>
